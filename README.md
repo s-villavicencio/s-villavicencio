@@ -29,7 +29,7 @@ Soy un **Data Scientist** con un sólido background de **15 años en infraestruc
 - 🏗️ Fundador de **NEXUS IT**, donde aplico tecnología para resolver retos de conectividad.
 
 ### 📫 Conectemos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO_AQUI) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svillavicencioa) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.villavicencio379@gmail.com)
 
 ---
